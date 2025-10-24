@@ -1,0 +1,145 @@
+body{
+    background-color:#c3f8ff;
+}
+.firstTable{
+    text-align: left; 
+    width: 800px;
+}
+.einsteinImg{
+    border-radius:50%;
+    width:400px;
+    height:400px;
+}
+.tableOneRowTwo{
+    font-family:arial;
+}
+.tableTwo{
+    align-items: center;
+}
+.tableTwoRowOne{
+    font-weight:bold;
+    font-style:italic;
+}
+.tableThree{
+    align-items:center;
+}
+.eduLiOne{
+    font-family: arial;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.eduLiTwo{
+    font-family: arial;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.eduLiThree{
+    font-family: arial;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.eduOneOne{
+    font-size: 1rem;
+    font-weight: normal;
+}
+.eduOneTwo{
+    font-size: 1rem;
+    font-weight: normal;
+}
+.eduOneThree{
+    font-size: 1rem;
+    font-weight: normal;
+}
+.workOne{
+    Font-family: Arial;
+    Font-size: 1.25rem;
+    Font-weight: Bold;
+}
+.workTwo{
+    Font-family: Arial;
+    Font-size: 1.25rem;
+    Font-weight: Bold;
+}
+.workThree{
+    Font-family: Arial;
+    Font-size: 1.25rem;
+    Font-weight: Bold;
+}
+.workTwoOne{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+}
+.workTwoTwo{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+}
+.workTwoThree{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+}
+.awardsBigList{
+    font-family: Arial;
+    font-size: 1.25rem;
+    font-weight: Bold;
+    list-style-type: none;
+}
+.awardsLiOne{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+    
+}
+.awardsLiTwo{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+}
+.awardsLiThree{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+}
+.awardsLiFour{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+}
+.awardsLiFive{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+}
+.awardsLiSix{
+    Font-size: 1rem;
+    Font-weight: normal;
+    List-style-type: none;
+}
+.otherExpBig{
+    font-family: Arial;
+    font-size: 1.25rem;
+    font-weight: Bold;
+}
+.otherExpSmallOne{
+    font-size: 1rem;
+    font-weight: normal;
+    list-style-type: lower-roman;  
+}
+.otherExpSmallTwo{
+    font-size: 1rem;
+    font-weight: normal;
+    list-style-type: lower-roman;
+}
+.otherExpSmallThree{
+    font-size: 1rem;
+    font-weight: normal;
+    list-style-type: lower-roman;
+}
+.otherExpSmallFour{
+    font-size: 1rem;
+    font-weight: normal;
+    list-style-type: lower-roman;
+}
+    
